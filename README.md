@@ -19,4 +19,4 @@ https://ghazaleh-j.github.io/Homework-2/
 
 Site preview:
 
-![alt text](/assets/Preview.png
+![alt text](/assets/Preview.png)
