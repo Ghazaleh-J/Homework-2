@@ -96,6 +96,11 @@ main section .content {
   background-size: cover;
 }
 
+.project.third {
+  background-image: url(./Dungeonwall2.jpeg);
+  background-size: cover;
+}
+
 .project-name {
   position: absolute;
   left: 80px;
